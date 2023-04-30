@@ -1,0 +1,1 @@
+require(script.classes.entities.player).new(Instance.new("Player"))
